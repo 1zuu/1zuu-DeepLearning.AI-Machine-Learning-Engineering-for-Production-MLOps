@@ -6,3 +6,6 @@
 
 ## MLOps Basic Workflow
 ![github](https://github.com/1zuu/1zuu-DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/mlops.jpg)
+
+## Machine Learning Life Cycle
+![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/ML%20Project%20Life%20Cycle.PNG)
