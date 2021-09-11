@@ -7,5 +7,13 @@
 ## MLOps Basic Workflow
 ![github](https://github.com/1zuu/1zuu-DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/mlops.jpg)
 
-## Machine Learning Life Cycle
+
+# Course 1 - Introduction to Machine Learning in Production
+### In this course it gives basic intuition of Machine Learning Project life cycle. 
+
+## Machine Learning Project Life Cycle
 ![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/ML%20Project%20Life%20Cycle.PNG)
+
+## WEEK 01
+### 1. Scoping Stage
+![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/scoping.PNG)
