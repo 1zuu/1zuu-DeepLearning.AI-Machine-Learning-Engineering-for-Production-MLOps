@@ -14,8 +14,18 @@
 ## Machine Learning Project Life Cycle
 ![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/ML%20Project%20Life%20Cycle.PNG)
 
-## WEEK 01
 ### 1. Scoping Stage
 ![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/scoping.PNG)
 
 #### Here we define the main objectives of the project. What are the key metrics should focus for evaluation? What kind of trade-offs (speed vs accuracy) we have to face ? are the main question we should ask in this stage. This is such key stage of the entire life cycle.
+
+### 2. data Stage
+![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/define%20data.PNG)
+
+### 3. modeling Stage
+![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/modeling.PNG)
+
+### 4. deployment Stage
+![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/deployment.PNG)
+
+#### One of the Most Challenge in Deployment Stage is CONCEPT DRIFT. WHich means the distribution of the data may changes from training phase to inference.
