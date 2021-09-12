@@ -28,4 +28,4 @@
 ### 4. deployment Stage
 ![github](https://github.com/1zuu/DeepLearning.AI-Machine-Learning-Engineering-for-Production-MLOps/blob/main/Course%201%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/notes/deployment.PNG)
 
-#### One of the Most Challenge in Deployment Stage is CONCEPT DRIFT. WHich means the distribution of the data may changes from training phase to inference.
+#### One of the Most Challenge in Deployment Stage is DATA DRIFT & CONCEPT DRIFT. DATA DRIFT means that the distribution of data may changes from training phase to inference based on variety of software, hardware & other issues. CONCEPT DRIFT means input output mapping of a supervised learning task changes. As as Example, Consider speech recognition system. We only trained the system for data collected from Teenagers. But due to pandemic old age people use the system for variety of reasons. 
